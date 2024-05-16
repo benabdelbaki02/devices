@@ -90,6 +90,12 @@
       "name": "Tecno",
       "model": "tecno"
     },
+        {
+      "showInProductionApp": true,
+      "isAvailable": false,
+      "name": "TOGO",
+      "model": "togo"
+    },
     {
       "showInProductionApp": true,
       "isAvailable": false,
