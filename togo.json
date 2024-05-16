@@ -1,9 +1,9 @@
 {
-    "manufacturer": "Honor",
+    "manufacturer": "TOGO",
     "models": [
     {
         "__id__": "6PnwsqTa22y536AacIIX",
-        "manufacturer": "Honor",
+        "manufacturer": "TOGO",
         "name": "Play",
         "settings_source_url": "",
         "dpi": 611,
@@ -19,7 +19,7 @@
     },
     {
         "__id__": "KhZ8zAJTVqUg8t72viG9",
-        "manufacturer": "Honor",
+        "manufacturer": "TOGO",
         "name": "9A",
         "settings_source_url": "",
         "dpi": 637,
@@ -35,7 +35,7 @@
     },
     {
         "__id__": "OjyJncuNtba94Os9diJ4",
-        "manufacturer": "Honor",
+        "manufacturer": "TOGO",
         "name": "9X Lite",
         "settings_source_url": "",
         "dpi": 558,
@@ -52,7 +52,7 @@
     },
     {
         "__id__": "WAdwDUPAAxRyGDjOWVIm",
-        "manufacturer": "Honor",
+        "manufacturer": "TOGO",
         "name": "8A",
         "settings_source_url": "",
         "dpi": 678,
@@ -68,7 +68,7 @@
     },
     {
         "__id__": "XlZMcLG0qSU46liVpZtp",
-        "manufacturer": "Honor",
+        "manufacturer": "TOGO",
         "name": "9 Lite",
         "settings_source_url": "",
         "dpi": 497,
@@ -84,7 +84,7 @@
     },
     {
         "__id__": "CQvfxOm7ybc3BHehQrVQ",
-        "manufacturer": "Honor",
+        "manufacturer": "TOGO",
         "name": "8X",
         "settings_source_url": "",
         "dpi": 0,
@@ -100,7 +100,7 @@
     },
     {
         "__id__": "bgk7eiTuSNczwUSg0DMS",
-        "manufacturer": "Honor",
+        "manufacturer": "TOGO",
         "name": "7X",
         "settings_source_url": "",
         "dpi": 0,
@@ -116,8 +116,8 @@
     },
     {
         "__id__": "wU6ug8cnRmVr4ly6Ng3d",
-        "manufacturer": "Honor",
-        "name": "10 Lite",
+        "manufacturer": "TOGO",
+        "name": "10 Lite TOGO",
         "settings_source_url": "",
         "dpi": 420,
         "fire_button": 48,
